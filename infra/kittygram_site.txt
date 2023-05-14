@@ -1,0 +1,5 @@
+IP:158.160.12.176;
+name_taski:https://alex03d.hopto.org;
+name_kittygram:https://pussygram.hopto.org;
+login:yc-user;
+password:Change_me;
